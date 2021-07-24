@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gowtham-GGK
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python & linux
+- 🌱 I’m currently learning python & Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
